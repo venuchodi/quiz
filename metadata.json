@@ -1,0 +1,6 @@
+{
+  "name": "EduQuiz AI",
+  "description": "EduQuiz AI is an automatic AI MCQ generator and instant assessment platform designed for teachers and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
